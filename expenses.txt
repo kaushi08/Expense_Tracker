@@ -1,0 +1,10 @@
+120.50,Food,Lunch
+450.00,Transport,Bus Pass
+200.00,Entertainment,Movie Ticket
+80.00,Coffee,Cappuccino
+1500.00,Shopping,T-Shirt
+650.00,Groceries,Weekly Vegetables
+100.00,Stationery,Notebook
+350.00,Internet,Mobile Recharge
+250.00,Health,Medicines
+75.00,Snacks,Evening Snacks
